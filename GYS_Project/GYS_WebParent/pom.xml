@@ -19,6 +19,7 @@
 	</properties>
 	<modules>
 		<module>GYS_Backend</module>
+		<module>GYS_Frontend</module>
 	</modules>
 	<dependencies>
 		
