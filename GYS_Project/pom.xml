@@ -8,5 +8,6 @@
   <description>Root Project</description>
   <modules>
 	  <module>GYS_Common</module>
+	  <module>GYS_WebParent</module>
   </modules>
 </project>
